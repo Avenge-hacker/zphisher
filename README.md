@@ -25,11 +25,9 @@
 ```
 apt update ; apt install git curl wget php -y ; git clone git://github.com/Avenge-hacker/zphisher.git ; cd zphisher ; bash zphisher.sh
 ```
-<br>
-<p align="center">
+
 ![Screenshot 2020-12-27 21:51:14](https://user-images.githubusercontent.com/76620513/103175152-d79e5a80-488d-11eb-8f3b-a42a199e3a13.png)
-<img width="42%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher02.png"/>
-</p>
+
 
 ### <<< If you copy , Then Give me The Credits >>>
 
