@@ -27,7 +27,9 @@ apt update ; apt install git curl wget php -y ; git clone git://github.com/Aveng
 ```
 
 ![Screenshot 2020-12-27 21:51:14](https://user-images.githubusercontent.com/76620513/103175152-d79e5a80-488d-11eb-8f3b-a42a199e3a13.png)
-
+<hr>
+<br>
+![Screenshot 2020-12-27 21:51:47](https://user-images.githubusercontent.com/76620513/103175219-4ed3ee80-488e-11eb-9bfb-71c2fb11b58b.png)
 
 ### <<< If you copy , Then Give me The Credits >>>
 
